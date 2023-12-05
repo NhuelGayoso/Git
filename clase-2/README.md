@@ -5,6 +5,8 @@ Esto me permite definir que archivos y carpertas no quiero que formen parte de m
 
 ## Repositorio Remoto
 
+![estructura-virtual](../_ref/estructura-virtual.png)
+
 > Servicios disponibles para trabajar en la nube
 
 * BitBucket: <https://bitbucket.org/>

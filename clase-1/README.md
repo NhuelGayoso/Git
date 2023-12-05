@@ -37,6 +37,8 @@ clear # limpia consola (ctrl + L)
 ## Estados de los archivos
 Los archivos en git pueden tener diferentes estados.
 
+![Estados de los archivos](../_ref/git-status.png)
+
  * UNTRACKED: Significa que el archivo no esta siendo seguido por GIT, sabe que existe pero no tiene ideade lo que pasa dentro del archivo . No lo controla Git.
    
  * STAGED o index: (Prefoto) Archivos que estan preparados para un commit (sacar la foto) el snapshot y perservar los cambios hechos de mi codigo fuente.
