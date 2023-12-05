@@ -41,9 +41,9 @@ Los archivos en git pueden tener diferentes estados.
    
  * STAGED o index: (Prefoto) Archivos que estan preparados para un commit (sacar la foto) el snapshot y perservar los cambios hechos de mi codigo fuente.
   
- * UNMODIFIED:
+ * UNMODIFIED: Los archivos respecto al LR no fueron modificados
   
- * MODIFIED:
+ * MODIFIED: Los archivos que con respecto al LR fueron midificados 
 
 ## Zona/area virtual  de git
 
@@ -68,7 +68,8 @@ git add <nombre-archivo1> <nombre-archivo2> <nombre-archivo3>
 git add Readme.md
 
 # Agrega todo a la zona/area de (SA)
-git add .   
+git add . 
+git add *.*   
 ```
 
 ## GIT LOG
