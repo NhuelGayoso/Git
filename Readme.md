@@ -84,3 +84,6 @@ git log
 ```sh
 git log --oneline
 ```
+
+## .gitkeep
+Git no versiona carpetas vacias por lo cual si yo necesito que una carpeta este dentro del repositorio de git voy a tener que crear el archivo  **.gitkeep**
